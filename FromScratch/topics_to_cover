@@ -1,0 +1,14 @@
+Unit - V Regression and Classification
+5.1 Linear Regression: Assessing performance of
+Regression – Error measures, Overfitting and Underfitting,
+Catalysts for Overfitting
+5.2 Multiple Linear Regression: Multiple Linear regressionequation, Implementation of multiple linear regression
+5.3 Metrics for Regression: Mean Squared Error (MSE),
+Root Mean Squared Error (RMSE), Mean Absolute Error
+(MAE)
+5.4 Logistic Regression: Binary and Multiclass
+Classification, Assessing Classification Performance,
+Handling more than two classes, Multiclass Classification:
+One vs One, One vs Rest
+5.5 Metrics for Classification: Confusion Matrix, AUC/
+ROC Curve, F1 Score, Accuracy, Precision, Recall
