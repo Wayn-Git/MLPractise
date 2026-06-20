@@ -12,6 +12,9 @@ class LinearRegression:
     def __init__(self, x, y, lr=0.1, w=0, b=0):
         self.x =  x
         self.y = y
-
+    
+    def MSE(self, y_pred):
+        return np.mean((self.y - y_pred) ** 2)
+    
 x = np.random.randint(10)
 print(x)
